@@ -1,0 +1,6 @@
+c:\users\tim&val\documents\visual studio 2015\Projects\TheFileTroll\TheFileTroll\bin\Debug\TheFileTroll.exe.config
+c:\users\tim&val\documents\visual studio 2015\Projects\TheFileTroll\TheFileTroll\bin\Debug\TheFileTroll.exe
+c:\users\tim&val\documents\visual studio 2015\Projects\TheFileTroll\TheFileTroll\bin\Debug\TheFileTroll.pdb
+c:\users\tim&val\documents\visual studio 2015\Projects\TheFileTroll\TheFileTroll\obj\Debug\TheFileTroll.csprojResolveAssemblyReference.cache
+c:\users\tim&val\documents\visual studio 2015\Projects\TheFileTroll\TheFileTroll\obj\Debug\TheFileTroll.exe
+c:\users\tim&val\documents\visual studio 2015\Projects\TheFileTroll\TheFileTroll\obj\Debug\TheFileTroll.pdb
